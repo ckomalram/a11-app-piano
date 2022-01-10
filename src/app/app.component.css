@@ -1,0 +1,16 @@
+.list-group-item{
+  cursor: pointer;
+  height: 50px;
+}
+
+.list-group-item:active{
+ opacity: 0.5;
+}
+
+
+.row {
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
